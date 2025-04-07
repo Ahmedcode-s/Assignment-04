@@ -1,0 +1,9 @@
+def main():
+
+    dividend = int(input("Please enter an integer to be divided: "))
+    divisor = int(input("Please enter an integer to divide by: "))
+
+    print(f"The result of this division is {dividend//divisor} with a remainder of {dividend%divisor}")
+
+if __name__ == '__main__':
+    main()
