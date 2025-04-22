@@ -1,5 +1,5 @@
 PROMPT: str = "What do you want?"
-JOKE: str = "Here is a joke for you! Sophia is heading out to the grocery store. A programmer tells her: get a liter of milk, and if they have eggs, get 12. Sophia returns with 13 liters of milk. The programmer asks why and Sophia replies: 'because they had eggs'"
+JOKE: str =" Why don't graveyards ever get overcrowded? Because people are dying to get in."
 SORRY: str = "Sorry I only tell jokes. Type joke to get a laugh."
 
 def main():
